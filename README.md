@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| MHV | 2A202601742 |
-| Họ và tên | Nguyễn Vũ Việt Anh |
+| MHV | 2A202601870 |
+| Họ và tên | Nguyễn Đức Anh |
 | Tên nhóm | Anh Trai Mâm Hai |
 | Case đã chọn | Case C — AI Support Radar |
 
